@@ -1,2 +1,8 @@
-* { box-sizing: border-box }
-body { color: #121212; }
+* {
+  box-sizing: border-box;
+  background-color: pink;
+}
+body {
+  color: #121212;
+  background-color: yellow;
+}
